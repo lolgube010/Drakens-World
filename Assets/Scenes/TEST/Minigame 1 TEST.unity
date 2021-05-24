@@ -394,7 +394,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
+  m_LinearDrag: 1
   m_AngularDrag: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
@@ -414,6 +414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46de7ef03bc31264b9e5afbe11d3480d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  plate: {fileID: 0}
+  plate: {fileID: 1479454963}
   right: 100
   left: 97
