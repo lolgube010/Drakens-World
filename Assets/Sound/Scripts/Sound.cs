@@ -7,7 +7,7 @@ using UnityEngine;
 public class Sound : MonoBehaviour
 {
     //Add a name to the clip.
-    public string names;
+    public string name;
 
     //You're able to add a clip to the script...
     public AudioClip clip;
