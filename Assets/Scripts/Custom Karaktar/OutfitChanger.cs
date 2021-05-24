@@ -25,9 +25,7 @@ public class OutfitChanger : MonoBehaviour
         if(currentOption >= options.Count){
             currentOption = 0; // resettar våran lista om man kommer till slutet
         }
-
-        bodyPart.Sprite = options[currentOption];
-
+        bodyPart.sprite = options[currentOption];
     }
 
     // väljer tidigare klädsel
@@ -37,7 +35,7 @@ public class OutfitChanger : MonoBehaviour
             currentOption = options.Count - 1; // resettar våran lista om man kommer till slutet
         }
         
-        bodyPart.Sprite = options[currentOption];
+        bodyPart.sprite = options[currentOption];
     }
 
     // sätter våran sprite till någon random från listan
