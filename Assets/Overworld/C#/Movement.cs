@@ -12,8 +12,6 @@ public class Movement : MonoBehaviour
     public Rigidbody2D rb;
     Vector2 movement;
     public Animator anm;
-    private Vector2 velocity;
-    public float currentSpeed;
     void Start()
     {
 
@@ -27,7 +25,6 @@ public class Movement : MonoBehaviour
         anm.SetFloat("Horizontal", movement.x);
         anm.SetFloat("Vertical", movement.y);
         anm.SetFloat("Speed", movement.sqrMagnitude);
-     
     }
 
     private void FixedUpdate()
@@ -37,5 +34,7 @@ public class Movement : MonoBehaviour
         sedan multipliseras det med move spedd som kontrollerar hastigheten av spelaren.*/
 
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+
+
     }
 }
