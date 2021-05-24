@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Edvin
 public class StudentMoving : MonoBehaviour
 {
-    public Rigidbody rb;
+    public Rigidbody2D rb;
+    public Transform Explosion;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,13 +15,19 @@ public class StudentMoving : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.AddForce(-transform.up * 0.1f, ForceMode.Impulse);
+        rb.AddForce(-transform.up * 0.1f);
     }
-    private void OnTriggerEnter(Collider collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.transform.tag == "Death")
         {
             Destroy(gameObject);
         }
+        if(collision.tag == "Player")
+        {
+            Destroy(gameObject);
+            Instantiate(Explosion, new Vector3(transform.position.x, transform.position.y, -4), Quaternion.identity);
+        }
     }
+ 
 }

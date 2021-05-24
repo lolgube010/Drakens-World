@@ -25,7 +25,7 @@ public class SpawningEdvin : MonoBehaviour
         {
             RandomX = Random.Range(-9, 10);
             yield return new WaitForSeconds(TimeBTWSpawn);
-            Instantiate(Student, new Vector3(RandomX, 6.26f, 0), Quaternion.identity);
+            Instantiate(Student, new Vector3(RandomX, transform.position.y, 0), Quaternion.identity);
         }
  
     }
