@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class foodDeath : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class foodDeath : MonoBehaviour
         if(collision.tag == "DeathZone")
         {
             Destroy(food);
+            print("Gameover");
+            SceneManager.LoadScene("Minigame 1 TEST");
         }
     }
 }
