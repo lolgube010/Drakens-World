@@ -21,18 +21,15 @@ public class sceneTransition : MonoBehaviour
 
     public void LoadNextLevel()
     {
-        //denna kod startar en courontine /johan.
         StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
     }
 
     IEnumerator LoadLevel(int levelIndex)
     {
-        //detta startar en animation /johan.
         transition.SetTrigger("Start");
 
         yield return new WaitForSeconds(transitionTime);
 
-        //detta byter scene /johan.
         SceneManager.LoadScene(levelIndex);
     }
 }
