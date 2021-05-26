@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+
+    //rör inte detta skript om ni inte vil dö, mvh johan
     // Start is called before the first frame update
 
     public float moveSpeed = 7f;
@@ -31,9 +33,9 @@ public class Movement : MonoBehaviour
     {
         /* denna line tar spelarens position och lägger till movement vilket är i update getAxisraw vilket ger ett värde mellan -1 och 1,
         det värdet bestämer vilket håll på den axis som spelaren rör sig.
-        sedan multipliseras det med move spedd som kontrollerar hastigheten av spelaren.*/
+        sedan multipliseras det med move spedd som kontrollerar hastigheten av spelaren // johan */
 
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
 
 
     }
