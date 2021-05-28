@@ -5,6 +5,7 @@ using UnityEngine;
 public class plateMovment : MonoBehaviour
 {
     public Rigidbody2D plate;
+    //så du teoretiskt kan ändra vilka tangenter du anvender för att styra -Lukas
     public KeyCode right;
     public KeyCode left;
     //Väldigt baisc 2d rörelse kod -Lukas
