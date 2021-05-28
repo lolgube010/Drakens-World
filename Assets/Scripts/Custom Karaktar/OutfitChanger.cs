@@ -12,9 +12,11 @@ public class OutfitChanger : MonoBehaviour
     // listan under
 
     // spriterender för varje kroppsdel
+    [Header("Kroppsdel vi ska byta")]
     public SpriteRenderer bodyPart;
 
-    // alla våra sprites
+    // alla våra nya sprites
+    [Header("Alla våra olika sprites för kroppsdelen ovan")]
     public List<Sprite> options = new List<Sprite>();
 
     private int currentOption = 0;
