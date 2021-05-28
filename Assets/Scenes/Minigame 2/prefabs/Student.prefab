@@ -97,6 +97,7 @@ MonoBehaviour:
   rb: {fileID: 4022366206611082273}
   Explosion: {fileID: 2416754242560878795, guid: 6a4ab905f5a78c241a1df70f03e10273,
     type: 3}
+  mini: {fileID: 0}
 --- !u!61 &5185972871140561703
 BoxCollider2D:
   m_ObjectHideFlags: 0

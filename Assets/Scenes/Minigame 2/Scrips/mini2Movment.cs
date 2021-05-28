@@ -7,10 +7,10 @@ public class mini2Movment : MonoBehaviour
     public float movmentSpeed;
     public Rigidbody2D rb;
     Vector2 movment;
-
+    public int PlayerHealth;
     void Start()
     {
-        
+        PlayerHealth = 3;
     }
     private void FixedUpdate() 
     {
@@ -22,5 +22,9 @@ public class mini2Movment : MonoBehaviour
     { // hämtar spelarens input - Bo
         movment.x = Input.GetAxisRaw("Horizontal");
         movment.y = Input.GetAxisRaw("Vertical");
+        if (PlayerHealth <= 0)
+        {
+            Destroy(gameObject);
+        }
     }
 }
