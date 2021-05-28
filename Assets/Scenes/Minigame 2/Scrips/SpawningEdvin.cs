@@ -5,11 +5,14 @@ using UnityEngine;
 public class SpawningEdvin : MonoBehaviour
 {
     public int RandomX;
+    public int RandomStudent;
     public Transform Student;
     public float TimeBTWSpawn = 1;
+    public GameObject[] Students;
     // Start is called before the first frame update
     void Start()
     {
+        Students = Resources.LoadAll<GameObject>("Students");
         StartCoroutine(Spawning());
     }
 
@@ -24,8 +27,9 @@ public class SpawningEdvin : MonoBehaviour
         while (true)
         {
             RandomX = Random.Range(-9, 10);
+            RandomStudent = Random.Range(0, Students.Length);
             yield return new WaitForSeconds(TimeBTWSpawn);
-            Instantiate(Student, new Vector3(RandomX, transform.position.y, 0), Quaternion.identity);
+            Instantiate(Students[RandomStudent], new Vector3(RandomX, transform.position.y, 0), Quaternion.identity);
         }
  
     }
