@@ -8,6 +8,7 @@ public class mini2Movment : MonoBehaviour
     public Rigidbody2D rb;
     Vector2 movment;
     public int PlayerHealth;
+    public float invisiblityTime;
     void Start()
     {
         PlayerHealth = 3;
@@ -26,5 +27,7 @@ public class mini2Movment : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        invisiblityTime -= Time.deltaTime;
+
     }
 }
