@@ -10,9 +10,10 @@ public class OutfitRandomizer : MonoBehaviour
 {
     public GameObject character;
     // skapar en lista med alla våra olika platser 
+    [Header("Kroppsdelar vi ska randomiza")]
     public List<OutfitChanger> outfitChangers = new List<OutfitChanger>();
 
-    // randomizar våra outfits
+    // randomizar våra outfits för varje kroppsdel
     public void RandomizeCharacter(){
         foreach (OutfitChanger changer in outfitChangers){
             changer.Randomize();

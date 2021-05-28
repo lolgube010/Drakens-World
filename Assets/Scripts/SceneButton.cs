@@ -12,4 +12,8 @@ public class SceneButton : MonoBehaviour
     public void LoadScene(int a){
         SceneManager.LoadScene(a);
     }
+
+    public void Quit(){
+        Application.Quit();
+    }
 }
