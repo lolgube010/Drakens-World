@@ -4,9 +4,17 @@ using UnityEngine;
 
 public class foodLogic : MonoBehaviour
 {
+    bool hasLanded;
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        FindObjectOfType<foodSpawner>().spawnFood();
-        this.enabled = false;
+        hasLanded = true;
+    }
+    private void Update()
+    {
+        if (hasLanded == true)
+        {
+            FindObjectOfType<foodSpawner>().spawnFood();
+            this.enabled = false;
+        }
     }
 }
