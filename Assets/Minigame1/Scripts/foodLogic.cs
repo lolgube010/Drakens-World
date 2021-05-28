@@ -13,8 +13,12 @@ public class foodLogic : MonoBehaviour
     {
         if (hasLanded == true)
         {
-            FindObjectOfType<foodSpawner>().spawnFood();
             FindObjectOfType<points>().poäng += 1;
+            if (FindObjectOfType<points>().poäng % 5 == 0)
+            {
+                FindObjectOfType<foodDestroyer>().destroyAll();
+            }
+            FindObjectOfType<foodSpawner>().spawnFood();
             this.enabled = false;
         }
     }
