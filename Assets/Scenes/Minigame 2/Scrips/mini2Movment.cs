@@ -10,7 +10,7 @@ public class mini2Movment : MonoBehaviour
     Vector2 movment;
     public int PlayerHealth;
     public float invisiblityTime;
-    public Image[] hearts;
+    public GameObject[] hearts;
     void Start()
     {
         PlayerHealth = 3;
@@ -34,6 +34,12 @@ public class mini2Movment : MonoBehaviour
     }
     public void updateHearts()
     {
-
+        foreach(GameObject heart in hearts)
+        {
+            if(PlayerHealth - 1< System.Array.IndexOf(hearts, heart))
+            {
+                heart.SetActive(false);
+            }
+        }
     }
 }

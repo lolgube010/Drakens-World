@@ -33,6 +33,7 @@ public class StudentMoving : MonoBehaviour
             Instantiate(Explosion, new Vector3(transform.position.x, transform.position.y, -4), Quaternion.identity);
             mini.PlayerHealth -= 1;
             mini.invisiblityTime = 0.5f;
+            mini.updateHearts();
         }
     }
  
