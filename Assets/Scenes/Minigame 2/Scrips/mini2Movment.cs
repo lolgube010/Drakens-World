@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class mini2Movment : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class mini2Movment : MonoBehaviour
     Vector2 movment;
     public int PlayerHealth;
     public float invisiblityTime;
+    public Image[] hearts;
     void Start()
     {
         PlayerHealth = 3;
@@ -28,6 +30,10 @@ public class mini2Movment : MonoBehaviour
             Destroy(gameObject);
         }
         invisiblityTime -= Time.deltaTime;
+
+    }
+    public void updateHearts()
+    {
 
     }
 }
