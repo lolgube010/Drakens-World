@@ -6,6 +6,10 @@ public class pointAdder : MonoBehaviour
 {
     //Detta script är för att se till så att poänegen läggs till korrekt -Lukas 
     public points points;
+     void Start()
+    {
+        points = FindObjectOfType<points>();// FindObjectÓfType gör så jag kan hitta poängräknaren när en prefab spawnar -Lukas
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Food") 
