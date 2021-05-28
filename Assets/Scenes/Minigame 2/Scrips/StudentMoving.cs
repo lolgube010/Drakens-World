@@ -12,6 +12,7 @@ public class StudentMoving : MonoBehaviour
     void Start()
     {
         mini = GameObject.FindGameObjectWithTag("Player").GetComponent<mini2Movment>();
+
     }
 
     // Update is called once per frame
