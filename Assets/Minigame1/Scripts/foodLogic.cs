@@ -14,6 +14,7 @@ public class foodLogic : MonoBehaviour
         if (hasLanded == true)
         {
             FindObjectOfType<foodSpawner>().spawnFood();
+            FindObjectOfType<points>().poäng += 1;
             this.enabled = false;
         }
     }
