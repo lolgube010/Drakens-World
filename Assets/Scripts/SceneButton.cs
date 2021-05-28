@@ -13,6 +13,7 @@ public class SceneButton : MonoBehaviour
         SceneManager.LoadScene(a);
     }
 
+    // gissa vad den här gör wowaoeoarewaoaweoo
     public void Quit(){
         Application.Quit();
     }
