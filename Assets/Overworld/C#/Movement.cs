@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+    //rör inte mvh johan.
     // Start is called before the first frame update
 
     public float moveSpeed = 7f;
@@ -20,6 +21,7 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //det här tar input.
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
         anm.SetFloat("Horizontal", movement.x);
@@ -33,7 +35,7 @@ public class Movement : MonoBehaviour
         det värdet bestämer vilket håll på den axis som spelaren rör sig.
         sedan multipliseras det med move spedd som kontrollerar hastigheten av spelaren.*/
 
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
 
 
     }
