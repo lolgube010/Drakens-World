@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -11,6 +12,10 @@ public class mini2Movment : MonoBehaviour
     public int PlayerHealth;
     public float invisiblityTime;
     public GameObject[] hearts;
+
+    public GameObject F;
+    public int Ammo;
+
     void Start()
     {
         PlayerHealth = 3;
@@ -18,7 +23,7 @@ public class mini2Movment : MonoBehaviour
     private void FixedUpdate() 
     {
         rb.velocity = new Vector2(movment.x * movmentSpeed , movment.y * movmentSpeed); // flytar spelaren baserat på input och movement speed - Bo
-
+   
     }
 
     void Update()
@@ -30,7 +35,12 @@ public class mini2Movment : MonoBehaviour
             Destroy(gameObject);
         }
         invisiblityTime -= Time.deltaTime;
-
+        if (Input.GetMouseButtonDown(0) && Ammo > 0)
+        {
+            Instantiate(F, transform.position, Quaternion.identity);
+            Ammo--;
+     
+        }
     }
     public void updateHearts()
     {

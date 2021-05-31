@@ -35,6 +35,12 @@ public class StudentMoving : MonoBehaviour
             mini.invisiblityTime = 0.5f;
             mini.updateHearts();
         }
+        if(collision.tag == "F")
+        {
+            Destroy(gameObject);
+            Instantiate(Explosion, new Vector3(transform.position.x, transform.position.y, -4), Quaternion.identity);
+            collision.gameObject.GetComponent<BulletBehaviour>().Durability--;
+        }
     }
  
 }
