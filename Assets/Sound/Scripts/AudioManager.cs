@@ -7,8 +7,9 @@ public class AudioManager : MonoBehaviour
     //Our other script and custom class called "Sound" makes an audioclip with volume, pitch and a name for it. Here we're making an array for that script.
     public Sound[] sounds;
 
-    enum Clipnames {BullethellMusic, FishingMusic, FoodMusic, OverworldMusic, OuchSFX, RunSFX, };
-    Clipnames myClipnames;
+    public enum Clipnames {BullethellMusic, FishingMusic, FoodMusic, OverworldMusic, OuchSFX, RunSFX, };
+    public Clipnames myClipnames;
+    
 
     //To prevent the AudioManager from mulitplying when changing scenes we create a static AudioManager called instance...
     public static AudioManager instance;
@@ -45,9 +46,31 @@ public class AudioManager : MonoBehaviour
     }
 
     //Here we're making our own custom void called "Play" and it's gonna ask us to "Play" a string called name. So we're basically gonna name the thing we wanna "Play".
-    public void Play (string name)
+    public void Play (Clipnames name)
     {
-        Sound s = Array.Find(sounds, sound => sound.name == name);
-        s.source.Play();
+        switch (name)
+        {
+            case Clipnames.BullethellMusic:
+                Play(Clipnames.BullethellMusic);
+                break;
+            case Clipnames.FishingMusic:
+                Play(Clipnames.FishingMusic);
+                break;
+            case Clipnames.FoodMusic:
+                Play(Clipnames.FoodMusic);
+                break;
+            case Clipnames.OverworldMusic:
+                Play(Clipnames.OverworldMusic);
+                break;
+            case Clipnames.OuchSFX:
+                Play(Clipnames.OuchSFX);
+                break;
+            case Clipnames.RunSFX:
+                Play(Clipnames.RunSFX);
+                break;
+            default:
+                
+                break;
+        }
     }
 }

@@ -10,7 +10,8 @@ using UnityEngine;
 //And because "MonoBehaviour" is what controlls "void Update" and "void Start" they wont be of any use to us now either.
 public class Sound 
 {
-    public string name;
+    public Clipnames name;
+    public enum Clipnames { BullethellMusic, FishingMusic, FoodMusic, OverworldMusic, OuchSFX, RunSFX, };
 
     //We want to reference "AudioClip" to get a audio clip and...
     public AudioClip clip;
