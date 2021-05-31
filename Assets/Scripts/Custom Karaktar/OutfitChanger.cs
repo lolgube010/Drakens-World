@@ -33,7 +33,7 @@ public class OutfitChanger : MonoBehaviour
     // väljer tidigare klädsel
     public void PreviousOption(){
         currentOption--;
-        if(currentOption <= 0){
+        if(currentOption < 0){
             currentOption = options.Count - 1; // resettar våran lista om man kommer till slutet
         }
         
@@ -41,6 +41,7 @@ public class OutfitChanger : MonoBehaviour
     }
 
     // sätter våran sprite till någon random från listan
+    // if our randomize system skips the last bodypart, remove the -1 in the random.range
     public void Randomize(){
         currentOption = Random.Range(0, options.Count - 1);
         bodyPart.sprite = options[currentOption];
