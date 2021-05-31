@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class mini2Movment : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class mini2Movment : MonoBehaviour
     public Rigidbody2D rb;
     Vector2 movment;
     public int PlayerHealth;
+    public float invisiblityTime;
+    public GameObject[] hearts;
     void Start()
     {
         PlayerHealth = 3;
@@ -25,6 +28,18 @@ public class mini2Movment : MonoBehaviour
         if (PlayerHealth <= 0)
         {
             Destroy(gameObject);
+        }
+        invisiblityTime -= Time.deltaTime;
+
+    }
+    public void updateHearts()
+    {
+        foreach(GameObject heart in hearts)
+        {
+            if(PlayerHealth - 1< System.Array.IndexOf(hearts, heart))
+            {
+                heart.SetActive(false);
+            }
         }
     }
 }

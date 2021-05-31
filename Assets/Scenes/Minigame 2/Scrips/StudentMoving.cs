@@ -27,11 +27,13 @@ public class StudentMoving : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if(collision.tag == "Player")
+        if(collision.tag == "Player" && mini.invisiblityTime < 0)
         {
             Destroy(gameObject);
             Instantiate(Explosion, new Vector3(transform.position.x, transform.position.y, -4), Quaternion.identity);
             mini.PlayerHealth -= 1;
+            mini.invisiblityTime = 0.5f;
+            mini.updateHearts();
         }
     }
  

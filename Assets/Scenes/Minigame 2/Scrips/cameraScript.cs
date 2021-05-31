@@ -13,6 +13,6 @@ public class cameraScript : MonoBehaviour
 
     void Update()
     {
-        tr.position = new Vector3(0, playerTr.position.y , -10); // gör så att kameran följer spelaren på y axeln -Bo
+        tr.position = new Vector3(0, playerTr.position.y + 3, -10); // gör så att kameran följer spelaren på y axeln -Bo
     }
 }
