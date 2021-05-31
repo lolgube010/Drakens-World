@@ -10,7 +10,7 @@ public class foodSpawner : MonoBehaviour
     bool hasStarted;
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && hasStarted != true)
+        if (Input.GetKeyDown(KeyCode.Space)/* && hasStarted != true*/)
         {
             spawnFood();
             startInfo.enabled = false;

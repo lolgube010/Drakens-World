@@ -18,7 +18,7 @@ public class foodLogic : MonoBehaviour
             {
                 FindObjectOfType<foodDestroyer>().destroyAll();
             }
-            FindObjectOfType<foodSpawner>().spawnFood();
+            //FindObjectOfType<foodSpawner>().spawnFood();
             this.enabled = false;
         }
     }
