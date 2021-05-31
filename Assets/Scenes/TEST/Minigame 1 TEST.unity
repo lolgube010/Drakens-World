@@ -638,7 +638,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1479454958}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 770ac375f48ed1947a55b7c0636d63c8, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -724,15 +724,15 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1479454958}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 100
   m_LinearDrag: 1
   m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_GravityScale: 0
+  m_Material: {fileID: 6200000, guid: 770ac375f48ed1947a55b7c0636d63c8, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -752,6 +752,7 @@ MonoBehaviour:
   plate: {fileID: 1479454963}
   right: 100
   left: 97
+  speed: 0
 --- !u!1 &2105010913
 GameObject:
   m_ObjectHideFlags: 0
