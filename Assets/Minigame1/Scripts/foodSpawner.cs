@@ -10,14 +10,14 @@ public class foodSpawner : MonoBehaviour
     bool hasStarted;
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space)/* && hasStarted != true*/)
+        if (Input.GetKeyDown(KeyCode.Space) && hasStarted != true) //Skapar en mat när man startar spelet och trycker på space.
         {
             spawnFood();
             startInfo.enabled = false;
             hasStarted = true;
         }
     }
-    public void spawnFood()
+    public void spawnFood() //Skapar mat med en slumpad x position.
     {
         spawnOffset = gameObject.transform.position;
         spawnOffset.x += Random.Range(2f, -3f);
