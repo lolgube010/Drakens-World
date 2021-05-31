@@ -23,6 +23,7 @@ public class OutfitRandomizer : MonoBehaviour
 // this is where we save our player prefab
     public void Submit(){
         PrefabUtility.SaveAsPrefabAsset(character, "Assets/Saves/Player.prefab");
+        print("saved / overwrote prefab!");
     }
 
 }

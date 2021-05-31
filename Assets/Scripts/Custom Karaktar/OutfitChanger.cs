@@ -43,7 +43,7 @@ public class OutfitChanger : MonoBehaviour
     // sätter våran sprite till någon random från listan
     // if our randomize system skips the last bodypart, remove the -1 in the random.range
     public void Randomize(){
-        currentOption = Random.Range(0, options.Count - 1);
+        currentOption = Random.Range(0, options.Count);
         bodyPart.sprite = options[currentOption];
     }
 
