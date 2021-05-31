@@ -16,7 +16,7 @@ public class foodLogic : MonoBehaviour
             FindObjectOfType<points>().poäng += 1;
             if (FindObjectOfType<points>().poäng % 5 == 0)
             {
-                FindObjectOfType<foodDestroyer>().destroyAll();
+                FindObjectOfType<foodDestroyer>().StartCoroutine("destroyAll");
             }
             FindObjectOfType<foodSpawner>().spawnFood();
             this.enabled = false;

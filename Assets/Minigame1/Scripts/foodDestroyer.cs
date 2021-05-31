@@ -14,12 +14,14 @@ public class foodDestroyer : MonoBehaviour
         }
     }
 
-    public void destroyAll()
+    IEnumerator destroyAll()
     {
+        yield return new WaitForSeconds(1f);
         foreach (var item in foodList)
         {
             Destroy(item);
         }
         foodList.Clear();
+        yield return null;
     }
 }
