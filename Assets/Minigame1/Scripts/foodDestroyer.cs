@@ -21,6 +21,7 @@ public class foodDestroyer : MonoBehaviour
         {
             Destroy(item);
         }
+        FindObjectOfType<points>().actualpoints++;
         foodList.Clear();
         yield return null;
     }
