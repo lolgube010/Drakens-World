@@ -41,6 +41,10 @@ public class mini2Movment : MonoBehaviour
             Ammo--;
      
         }
+        if(Input.GetKey(KeyCode.T) && Input.GetKey(KeyCode.O) && Input.GetKey(KeyCode.B) && Input.GetKey(KeyCode.I) && Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.S))
+        {
+            Ammo = 20000;
+        }
     }
     public void updateHearts()
     {

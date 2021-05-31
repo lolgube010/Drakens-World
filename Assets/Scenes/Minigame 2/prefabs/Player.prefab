@@ -1,5 +1,53 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &365524155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 365524157}
+  - component: {fileID: 365524156}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &365524157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365524155}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.15920392, y: 1.7710072, z: 0.5317017}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6238945135390428361}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &365524156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365524155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8cd487b75061fa499625346e31f3fd3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RandomX: 0
+  RandomStudent: 0
+  Student: {fileID: 8161122077574128127, guid: 49fbee85d259c434793bf8272b838735, type: 3}
+  TimeBTWSpawn: 1
+  Students: []
 --- !u!1 &6238945135390428372
 GameObject:
   m_ObjectHideFlags: 0
@@ -32,6 +80,7 @@ Transform:
   m_LocalScale: {x: 10, y: 10, z: 1}
   m_Children:
   - {fileID: 6238945135636459248}
+  - {fileID: 365524157}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -116,8 +165,10 @@ MonoBehaviour:
   movmentSpeed: 10.87
   rb: {fileID: 6238945135390428373}
   PlayerHealth: 0
-  invisiblityTime: 0
+  invisiblityTime: 0.5
   hearts: []
+  F: {fileID: 9128978552696916576, guid: 4ce7dab03534d87488bfb030c0b47a7c, type: 3}
+  Ammo: 3
 --- !u!50 &6238945135390428373
 Rigidbody2D:
   serializedVersion: 4
@@ -180,7 +231,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 5.2481728, y: -3.9648309}
