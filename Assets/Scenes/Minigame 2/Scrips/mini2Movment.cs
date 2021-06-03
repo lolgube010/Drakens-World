@@ -16,6 +16,7 @@ public class mini2Movment : MonoBehaviour
     public GameObject F;
     public int Ammo;
 
+    public Win winning;
     void Start()
     {
         PlayerHealth = 3;
@@ -32,7 +33,7 @@ public class mini2Movment : MonoBehaviour
         movment.y = Input.GetAxisRaw("Vertical");
         if (PlayerHealth <= 0)
         {
-            Destroy(gameObject);
+            winning.ReturnToOverworld();
         }
         invisiblityTime -= Time.deltaTime;
         if (Input.GetMouseButtonDown(0) && Ammo > 0)
@@ -40,6 +41,10 @@ public class mini2Movment : MonoBehaviour
             Instantiate(F, transform.position, Quaternion.identity);
             Ammo--;
      
+        }
+        if(Input.GetKey(KeyCode.T) && Input.GetKey(KeyCode.O) && Input.GetKey(KeyCode.B) && Input.GetKey(KeyCode.I) && Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.S))
+        {
+            Ammo = 3000;
         }
     }
     public void updateHearts()
