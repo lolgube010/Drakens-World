@@ -9,16 +9,11 @@ public class foodSpawner : MonoBehaviour
     public UnityEngine.UI.Text startInfo;
     bool hasStarted;
     public points points;
-    void Start()
-    {
-        FindObjectOfType<points>();
-    }
+    
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && hasStarted != true) //Skapar en mat när man startar spelet och trycker på space.
         {
-            points.poäng = 0;
-            points.actualpoints = 0;
             spawnFood();
             startInfo.enabled = false;
             hasStarted = true;

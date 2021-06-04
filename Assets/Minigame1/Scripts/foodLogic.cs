@@ -9,6 +9,9 @@ public class foodLogic : MonoBehaviour
     {
         hasLanded = true;
     }
+    private void Start()
+    {
+    }
     private void Update()
     {
         if (hasLanded == true) //När objektet landar ska objektet lägga till ett poäng och om det är en stack av 5 så tar den bort all mat från scenen.
