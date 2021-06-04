@@ -1,8 +1,18 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Overworld/Sprites/New Piskel_0.controller.meta
+<<<<<<< HEAD
+guid: 13b605f272edd3847a370d7a2e00b872
+=======
+guid: d7817909611cb7c479ce3ef0e7985245
+>>>>>>> 24f5b49dc664eb3dd52f41e42df3dbcf044a6f19
+NativeFormatImporter:
+=======
 guid: add6dbecd2f26bd4e85b76e3a7447d93
 folderAsset: yes
 DefaultImporter:
+>>>>>>> e852f2efe0b17d8e133651b979896cef5eeb4bb8:Assets/Sound/Scripts.meta
   externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
