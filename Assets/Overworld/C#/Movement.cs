@@ -33,12 +33,12 @@ public class Movement : MonoBehaviour
     {
         if (collision.tag == "Minigame 2")
         {
-            sceneTransition.LoadNextLevel("Johan 2");
+            sceneTransition.LoadNextLevel("Minigame 2");
 
         }
         if (collision.gameObject.tag == "Minigame 1")
         {
-            sceneTransition.LoadNextLevel("Minigame 1");
+            sceneTransition.LoadNextLevel("Minigame 1 TEST");
         }
     }
     private void FixedUpdate()
