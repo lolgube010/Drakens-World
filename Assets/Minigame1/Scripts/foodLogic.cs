@@ -5,19 +5,34 @@ using UnityEngine;
 public class foodLogic : MonoBehaviour
 {
     bool hasLanded;
+    public Sprite[] foodParts;
+    public points points;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         hasLanded = true;
     }
     private void Start()
     {
+        points = FindObjectOfType<points>();
+        if (points.poäng == 0)
+        {
+            GetComponent<SpriteRenderer>().sprite = foodParts[0];
+        }
+        else if (points.poäng == 5)
+        {
+            GetComponent<SpriteRenderer>().sprite = foodParts[5];
+        }
+        else
+        {
+            GetComponent<SpriteRenderer>().sprite = foodParts[Random.Range(5, 1)];
+        }
     }
     private void Update()
     {
         if (hasLanded == true) //När objektet landar ska objektet lägga till ett poäng och om det är en stack av 5 så tar den bort all mat från scenen.
         {
-            FindObjectOfType<points>().poäng += 1;
-            if (FindObjectOfType<points>().poäng % 5 == 0)
+            points.poäng += 1;
+            if (points.poäng == 5)
             {
                 FindObjectOfType<foodDestroyer>().StartCoroutine("destroyAll");
             }

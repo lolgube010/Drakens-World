@@ -23,6 +23,7 @@ public class foodDestroyer : MonoBehaviour
         }
         FindObjectOfType<points>().actualpoints++; //Lägger till ett poäng.
         foodList.Clear();
+        FindObjectOfType<points>().poäng = 0; //Resettar referens countern.
         FindObjectOfType<foodSpawner>().spawnFood(); //Skapar mer mat efter att maten är borta
         yield return null;
     }

@@ -12,7 +12,7 @@ public class foodSpawner : MonoBehaviour
     
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && hasStarted != true) //Skapar en mat när man startar spelet och trycker på space.
+        if (Input.GetAxis("Jump") > 0 && hasStarted != true) //Skapar en mat när man startar spelet och trycker på space.
         {
             spawnFood();
             startInfo.enabled = false;
