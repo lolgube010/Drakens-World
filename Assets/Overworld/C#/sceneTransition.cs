@@ -12,24 +12,22 @@ public class sceneTransition : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
-        {
-            LoadNextLevel();
-        }
+       
         
     }
+   
 
-    public void LoadNextLevel()
+    public void LoadNextLevel(string scene)
     {
-        StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
-    }
-
-    IEnumerator LoadLevel(int levelIndex)
-    {
+        //StartCoroutine(LoadLevel(SceneManager.LoadScene("Minigame 2")));
         transition.SetTrigger("Start");
 
-        yield return new WaitForSeconds(transitionTime);
+        print(scene);
 
-        SceneManager.LoadScene(levelIndex);
+        new WaitForSeconds(transitionTime);
+
+        SceneManager.LoadScene(scene);
     }
+
+
 }
