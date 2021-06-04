@@ -385,6 +385,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  F: {fileID: 0}
+  Ammo: 0
 --- !u!58 &1761958422
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -726,7 +728,13 @@ PrefabInstance:
     - target: {fileID: 4347082593034848525, guid: f834b36d6ac8aef44b11dcc4a91a9c1f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4347082594274582780, guid: f834b36d6ac8aef44b11dcc4a91a9c1f,
+        type: 3}
+      propertyPath: m_text
+      value: "movment: w,a,s,d or arrow keys \n\npress \"F\" or mouse 1 to throw
+        f- grades\n\nAvoid the students and reach the end to win "
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f834b36d6ac8aef44b11dcc4a91a9c1f, type: 3}
