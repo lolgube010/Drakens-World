@@ -40,6 +40,10 @@ public class Movement : MonoBehaviour
         {
             sceneTransition.LoadNextLevel("Minigame 1 TEST");
         }
+        if(collision.tag == "Maryam")
+        {
+            sceneTransition.LoadNextLevel("Marcus");
+        }
     }
     private void FixedUpdate()
     {

@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Object
   - Minigame 2
+  - Food
+  - Minigame 1
+  - DeathZone
+  - Maryam
   layers:
   - Default
   - TransparentFX
