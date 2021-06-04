@@ -26,6 +26,6 @@ public class Sound
 
     //We're making an audio source so every audioclip in the array has an audio source and is therefore able to actually produce sound lmao.
     //HideInInspector = Hides your line of code so it doesnt show up in the Unity inspector, despite it being public.
-    [HideInInspector]
+    //[HideInInspector]
     public AudioSource source;
 }
