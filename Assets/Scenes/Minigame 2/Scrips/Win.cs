@@ -60,6 +60,6 @@ public class Win : MonoBehaviour
     // skrivs senare
     public void ReturnToOverworld()
     {
-
+        SceneManager.LoadScene("OverWorld");
     }
 }
