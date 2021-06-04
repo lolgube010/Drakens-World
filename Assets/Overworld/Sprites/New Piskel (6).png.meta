@@ -1,0 +1,2516 @@
+fileFormatVersion: 2
+guid: 13b2e4970d723a64ba77883f7072629e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2373183141213679312
+    second: New Piskel (6)_0
+  - first:
+      213: 2692668872550476181
+    second: New Piskel (6)_1
+  - first:
+      213: -7693382868939088697
+    second: New Piskel (6)_2
+  - first:
+      213: 6341370224737695196
+    second: New Piskel (6)_3
+  - first:
+      213: 1329696334464466907
+    second: New Piskel (6)_4
+  - first:
+      213: 4334171132609126982
+    second: New Piskel (6)_5
+  - first:
+      213: -5587219251741293468
+    second: New Piskel (6)_6
+  - first:
+      213: 8153785213593319801
+    second: New Piskel (6)_7
+  - first:
+      213: 8507025820030227789
+    second: New Piskel (6)_8
+  - first:
+      213: -344888179715434319
+    second: New Piskel (6)_9
+  - first:
+      213: -5288153311091106340
+    second: New Piskel (6)_10
+  - first:
+      213: -3659646873982110304
+    second: New Piskel (6)_11
+  - first:
+      213: 5830654340092293830
+    second: New Piskel (6)_12
+  - first:
+      213: -7966985761314321947
+    second: New Piskel (6)_13
+  - first:
+      213: 4042138376679616363
+    second: New Piskel (6)_14
+  - first:
+      213: 5613647946488350454
+    second: New Piskel (6)_15
+  - first:
+      213: 3315908023853562603
+    second: New Piskel (6)_16
+  - first:
+      213: -5162177162091719663
+    second: New Piskel (6)_17
+  - first:
+      213: 2141023204347607390
+    second: New Piskel (6)_18
+  - first:
+      213: -4455335649625012326
+    second: New Piskel (6)_19
+  - first:
+      213: -8735267564447329327
+    second: New Piskel (6)_20
+  - first:
+      213: 6925859700200386123
+    second: New Piskel (6)_21
+  - first:
+      213: -6690888728513289718
+    second: New Piskel (6)_22
+  - first:
+      213: 3208477823920176917
+    second: New Piskel (6)_23
+  - first:
+      213: -4888824378132584010
+    second: New Piskel (6)_0
+  - first:
+      213: 1408448671592880165
+    second: New Piskel (6)_1
+  - first:
+      213: -3717302984033477888
+    second: New Piskel (6)_2
+  - first:
+      213: 6239590922555008351
+    second: New Piskel (6)_3
+  - first:
+      213: 1468217678510534216
+    second: New Piskel (6)_4
+  - first:
+      213: -6434333643213971615
+    second: New Piskel (6)_5
+  - first:
+      213: -4024525217774791505
+    second: New Piskel (6)_6
+  - first:
+      213: 3941359211623442615
+    second: New Piskel (6)_7
+  - first:
+      213: 897594179817172277
+    second: New Piskel (6)_8
+  - first:
+      213: -2713049790992577238
+    second: New Piskel (6)_9
+  - first:
+      213: 4285515699356246476
+    second: New Piskel (6)_10
+  - first:
+      213: -231286834695872001
+    second: New Piskel (6)_11
+  - first:
+      213: 1707042587355347487
+    second: New Piskel (6)_12
+  - first:
+      213: 3714568547615023161
+    second: New Piskel (6)_13
+  - first:
+      213: 2988678428140358041
+    second: New Piskel (6)_14
+  - first:
+      213: 6547728235225035760
+    second: New Piskel (6)_15
+  - first:
+      213: 2220528054692390004
+    second: New Piskel (6)_16
+  - first:
+      213: -3860050455362016487
+    second: New Piskel (6)_17
+  - first:
+      213: -3875404459288395426
+    second: New Piskel (6)_18
+  - first:
+      213: 7570781308282191555
+    second: New Piskel (6)_19
+  - first:
+      213: 4592694858849918464
+    second: New Piskel (6)_20
+  - first:
+      213: -8204761505287164242
+    second: New Piskel (6)_21
+  - first:
+      213: -3603434874166397368
+    second: New Piskel (6)_22
+  - first:
+      213: 3380614106688593296
+    second: New Piskel (6)_23
+  - first:
+      213: -6663070765520541550
+    second: New Piskel (6)_24
+  - first:
+      213: -5256581292942835487
+    second: New Piskel (6)_25
+  - first:
+      213: 4773150254130555829
+    second: New Piskel (6)_26
+  - first:
+      213: -5362680122937249792
+    second: New Piskel (6)_27
+  - first:
+      213: -2758761348316368062
+    second: New Piskel (6)_28
+  - first:
+      213: 570228227489951853
+    second: New Piskel (6)_29
+  - first:
+      213: -5373811285644048554
+    second: New Piskel (6)_30
+  - first:
+      213: 7288030212822974005
+    second: New Piskel (6)_31
+  - first:
+      213: -2343624701698947284
+    second: New Piskel (6)_32
+  - first:
+      213: -4096061965590108523
+    second: New Piskel (6)_33
+  - first:
+      213: 8497321785705288399
+    second: New Piskel (6)_34
+  - first:
+      213: -3608377365999134030
+    second: New Piskel (6)_35
+  - first:
+      213: -7693069304371552669
+    second: New Piskel (6)_36
+  - first:
+      213: 3327074085382221663
+    second: New Piskel (6)_37
+  - first:
+      213: -5607556938092721056
+    second: New Piskel (6)_38
+  - first:
+      213: 3456597333081871596
+    second: New Piskel (6)_39
+  - first:
+      213: -4136745237902795803
+    second: New Piskel (6)_40
+  - first:
+      213: 5382051207829089313
+    second: New Piskel (6)_41
+  - first:
+      213: 7726352407405276795
+    second: New Piskel (6)_42
+  - first:
+      213: 2149635080024734206
+    second: New Piskel (6)_43
+  - first:
+      213: -7963197496525460433
+    second: New Piskel (6)_44
+  - first:
+      213: 8300207421341810662
+    second: New Piskel (6)_45
+  - first:
+      213: 7135766833310905952
+    second: New Piskel (6)_46
+  - first:
+      213: -6344872717556983731
+    second: New Piskel (6)_47
+  - first:
+      213: 7768081469472797280
+    second: New Piskel (6)_48
+  - first:
+      213: -4869731310837878767
+    second: New Piskel (6)_49
+  - first:
+      213: 4131218388119177131
+    second: New Piskel (6)_50
+  - first:
+      213: -7885586652738134540
+    second: New Piskel (6)_51
+  - first:
+      213: -1440172444006339300
+    second: New Piskel (6)_52
+  - first:
+      213: 244988012029739005
+    second: New Piskel (6)_53
+  - first:
+      213: -4552233820077889229
+    second: New Piskel (6)_54
+  - first:
+      213: -6328886052025829092
+    second: New Piskel (6)_55
+  - first:
+      213: 8023308037642960861
+    second: New Piskel (6)_56
+  - first:
+      213: -7540782651589621894
+    second: New Piskel (6)_57
+  - first:
+      213: -8243859311612970965
+    second: New Piskel (6)_58
+  - first:
+      213: -4865998299445902116
+    second: New Piskel (6)_59
+  - first:
+      213: 9003588591894843208
+    second: New Piskel (6)_60
+  - first:
+      213: 9167999586176045334
+    second: New Piskel (6)_61
+  - first:
+      213: -4910586094679412455
+    second: New Piskel (6)_62
+  - first:
+      213: -2185523421395313298
+    second: New Piskel (6)_63
+  - first:
+      213: -5895430871585847308
+    second: New Piskel (6)_64
+  - first:
+      213: -8245018176797006460
+    second: New Piskel (6)_65
+  - first:
+      213: 8468870273244740310
+    second: New Piskel (6)_66
+  - first:
+      213: -1857052946207190609
+    second: New Piskel (6)_67
+  - first:
+      213: -9072290622596717362
+    second: New Piskel (6)_68
+  - first:
+      213: 7587240741751581085
+    second: New Piskel (6)_69
+  - first:
+      213: -3073817313907093394
+    second: New Piskel (6)_70
+  - first:
+      213: 8698393253498998675
+    second: New Piskel (6)_71
+  - first:
+      213: -5692571884840151249
+    second: New Piskel (6)_72
+  - first:
+      213: -6419387335013436098
+    second: New Piskel (6)_73
+  - first:
+      213: -5726876559789745130
+    second: New Piskel (6)_74
+  - first:
+      213: -228617971553958975
+    second: New Piskel (6)_75
+  - first:
+      213: 7020860207148365182
+    second: New Piskel (6)_76
+  - first:
+      213: 6666287267395820938
+    second: New Piskel (6)_77
+  - first:
+      213: -3258410747153380798
+    second: New Piskel (6)_78
+  - first:
+      213: 285318174776724932
+    second: New Piskel (6)_79
+  - first:
+      213: 3866233203079017121
+    second: New Piskel (6)_80
+  - first:
+      213: 8193477090222134518
+    second: New Piskel (6)_81
+  - first:
+      213: -6926088457258477637
+    second: New Piskel (6)_82
+  - first:
+      213: 917211661771769852
+    second: New Piskel (6)_83
+  - first:
+      213: 5085382547365426736
+    second: New Piskel (6)_84
+  - first:
+      213: -8413791340616114634
+    second: New Piskel (6)_85
+  - first:
+      213: 3425508434059202069
+    second: New Piskel (6)_86
+  - first:
+      213: -6000815454345903758
+    second: New Piskel (6)_87
+  - first:
+      213: 3340758697576569977
+    second: New Piskel (6)_88
+  - first:
+      213: -3984942874979915602
+    second: New Piskel (6)_89
+  - first:
+      213: -8992528541895099301
+    second: New Piskel (6)_90
+  - first:
+      213: 7533438956319801964
+    second: New Piskel (6)_91
+  - first:
+      213: -8938154471793285739
+    second: New Piskel (6)_92
+  - first:
+      213: 5999054692972079619
+    second: New Piskel (6)_93
+  - first:
+      213: -1403291366375959636
+    second: New Piskel (6)_94
+  - first:
+      213: 504773542505215666
+    second: New Piskel (6)_95
+  - first:
+      213: 8863204808767459260
+    second: New Piskel (6)_96
+  - first:
+      213: -4499882190927489011
+    second: New Piskel (6)_97
+  - first:
+      213: -7496361224955899685
+    second: New Piskel (6)_98
+  - first:
+      213: -7098356784046683566
+    second: New Piskel (6)_99
+  - first:
+      213: 653452127031986016
+    second: New Piskel (6)_100
+  - first:
+      213: -8084622920744344259
+    second: New Piskel (6)_101
+  - first:
+      213: 8861447742729894788
+    second: New Piskel (6)_102
+  - first:
+      213: -4652676774357631945
+    second: New Piskel (6)_103
+  - first:
+      213: -8074346201422043279
+    second: New Piskel (6)_104
+  - first:
+      213: -876319797493520266
+    second: New Piskel (6)_105
+  - first:
+      213: -3823061090356001735
+    second: New Piskel (6)_106
+  - first:
+      213: 499763232161355644
+    second: New Piskel (6)_107
+  - first:
+      213: 3009135065460581454
+    second: New Piskel (6)_108
+  - first:
+      213: -8406058245963251890
+    second: New Piskel (6)_109
+  - first:
+      213: -6167857513396877375
+    second: New Piskel (6)_110
+  - first:
+      213: -2456484182800664053
+    second: New Piskel (6)_111
+  - first:
+      213: 7195554378946410396
+    second: New Piskel (6)_112
+  - first:
+      213: -2910502432934863832
+    second: New Piskel (6)_113
+  - first:
+      213: 4776351890853771807
+    second: New Piskel (6)_114
+  - first:
+      213: -2585552889951140782
+    second: New Piskel (6)_115
+  - first:
+      213: -5177067053584998921
+    second: New Piskel (6)_116
+  - first:
+      213: -5509641626486607241
+    second: New Piskel (6)_117
+  - first:
+      213: -5924178658677816032
+    second: New Piskel (6)_118
+  - first:
+      213: -2623792591848285161
+    second: New Piskel (6)_119
+  - first:
+      213: -574893913952130078
+    second: New Piskel (6)_120
+  - first:
+      213: 2226224341348271298
+    second: New Piskel (6)_121
+  - first:
+      213: 390858759990501112
+    second: New Piskel (6)_122
+  - first:
+      213: 7477235122127723521
+    second: New Piskel (6)_123
+  - first:
+      213: -1864442521096334360
+    second: New Piskel (6)_124
+  - first:
+      213: -5794849100738601746
+    second: New Piskel (6)_125
+  - first:
+      213: -8264032902236086334
+    second: New Piskel (6)_126
+  - first:
+      213: 6055934059293540700
+    second: New Piskel (6)_127
+  - first:
+      213: 5311704650584314626
+    second: New Piskel (6)_128
+  - first:
+      213: -4358220072502059791
+    second: New Piskel (6)_129
+  - first:
+      213: 8175097897586559854
+    second: New Piskel (6)_130
+  - first:
+      213: 8169799901469470096
+    second: New Piskel (6)_131
+  - first:
+      213: 1705812121043558303
+    second: New Piskel (6)_132
+  - first:
+      213: 9106529731549052892
+    second: New Piskel (6)_133
+  - first:
+      213: 147361399590537237
+    second: New Piskel (6)_134
+  - first:
+      213: -1664364280591981396
+    second: New Piskel (6)_135
+  - first:
+      213: -1516772775753382251
+    second: New Piskel (6)_136
+  - first:
+      213: -6496177459483132760
+    second: New Piskel (6)_137
+  - first:
+      213: -6635880593153504694
+    second: New Piskel (6)_138
+  - first:
+      213: -2403120255598641424
+    second: New Piskel (6)_139
+  - first:
+      213: 7348511795153942156
+    second: New Piskel (6)_140
+  - first:
+      213: 1567520268884995979
+    second: New Piskel (6)_141
+  - first:
+      213: -9109871575724616552
+    second: New Piskel (6)_142
+  - first:
+      213: 6760371503344193381
+    second: New Piskel (6)_143
+  - first:
+      213: -2272757875391864669
+    second: New Piskel (6)_144
+  - first:
+      213: 1504926839585206631
+    second: New Piskel (6)_145
+  - first:
+      213: 6336438264146499475
+    second: New Piskel (6)_146
+  - first:
+      213: 43414039052109901
+    second: New Piskel (6)_147
+  - first:
+      213: -5194310798019375998
+    second: New Piskel (6)_148
+  - first:
+      213: 5984482541448830712
+    second: New Piskel (6)_149
+  - first:
+      213: -1800404420957656118
+    second: New Piskel (6)_150
+  - first:
+      213: -8780697101070941824
+    second: New Piskel (6)_151
+  - first:
+      213: 5693760410687518880
+    second: New Piskel (6)_152
+  - first:
+      213: 319976566887126077
+    second: New Piskel (6)_153
+  - first:
+      213: 2827148884132712528
+    second: New Piskel (6)_154
+  - first:
+      213: -411426337229816555
+    second: New Piskel (6)_155
+  - first:
+      213: 5270198431066690940
+    second: New Piskel (6)_156
+  - first:
+      213: 5739994300415314623
+    second: New Piskel (6)_157
+  - first:
+      213: -8041471153877110592
+    second: New Piskel (6)_158
+  - first:
+      213: -965087830357991171
+    second: New Piskel (6)_159
+  - first:
+      213: 4380311288363120796
+    second: New Piskel (6)_160
+  - first:
+      213: 3241984339482915214
+    second: New Piskel (6)_161
+  - first:
+      213: 6968330817456480932
+    second: New Piskel (6)_162
+  - first:
+      213: -8017227455351774792
+    second: New Piskel (6)_163
+  - first:
+      213: 4099684721838809959
+    second: New Piskel (6)_164
+  - first:
+      213: -3905839826728696255
+    second: New Piskel (6)_165
+  - first:
+      213: -1566394004287175303
+    second: New Piskel (6)_166
+  - first:
+      213: 7714973823341792941
+    second: New Piskel (6)_167
+  - first:
+      213: -6303459029289017447
+    second: New Piskel (6)_168
+  - first:
+      213: -4625341349746464390
+    second: New Piskel (6)_169
+  - first:
+      213: 2979068175689815474
+    second: New Piskel (6)_170
+  - first:
+      213: -3304953345380189992
+    second: New Piskel (6)_171
+  - first:
+      213: 5067614459828144282
+    second: New Piskel (6)_172
+  - first:
+      213: 1182091038358771033
+    second: New Piskel (6)_173
+  - first:
+      213: 8678943532732859566
+    second: New Piskel (6)_174
+  - first:
+      213: -146664600372392859
+    second: New Piskel (6)_175
+  - first:
+      213: -3952652750704528177
+    second: New Piskel (6)_176
+  - first:
+      213: 7161049684741009407
+    second: New Piskel (6)_177
+  - first:
+      213: -4414741670432490722
+    second: New Piskel (6)_178
+  - first:
+      213: 277078654410832478
+    second: New Piskel (6)_179
+  - first:
+      213: -3955322158288166971
+    second: New Piskel (6)_180
+  - first:
+      213: 3166607108585262028
+    second: New Piskel (6)_181
+  - first:
+      213: 3987253757319485447
+    second: New Piskel (6)_182
+  - first:
+      213: 1951696501125166953
+    second: New Piskel (6)_183
+  - first:
+      213: -1126658724979826759
+    second: New Piskel (6)_184
+  - first:
+      213: -1687122891402993262
+    second: New Piskel (6)_185
+  - first:
+      213: -2310104574316496254
+    second: New Piskel (6)_186
+  - first:
+      213: 3436643274859439907
+    second: New Piskel (6)_187
+  - first:
+      213: -6603557797065071703
+    second: New Piskel (6)_188
+  - first:
+      213: 1708332456916704415
+    second: New Piskel (6)_189
+  - first:
+      213: 2305945822061143205
+    second: New Piskel (6)_190
+  - first:
+      213: 432026181651302741
+    second: New Piskel (6)_191
+  - first:
+      213: -4367084096172028743
+    second: New Piskel (6)_192
+  - first:
+      213: -5342900733418431902
+    second: New Piskel (6)_193
+  - first:
+      213: 9122938586017258806
+    second: New Piskel (6)_194
+  - first:
+      213: 4589888236846455981
+    second: New Piskel (6)_195
+  - first:
+      213: -5386183168773669278
+    second: New Piskel (6)_196
+  - first:
+      213: 5900696942348561073
+    second: New Piskel (6)_197
+  - first:
+      213: 7456967407165803233
+    second: New Piskel (6)_198
+  - first:
+      213: 7110687173100261113
+    second: New Piskel (6)_199
+  - first:
+      213: 163404121516851829
+    second: New Piskel (6)_200
+  - first:
+      213: -6890157505184737446
+    second: New Piskel (6)_201
+  - first:
+      213: 923799274448594921
+    second: New Piskel (6)_202
+  - first:
+      213: 2079400270003621115
+    second: New Piskel (6)_203
+  - first:
+      213: 8397616597144748961
+    second: New Piskel (6)_204
+  - first:
+      213: -8571902446081198904
+    second: New Piskel (6)_205
+  - first:
+      213: -5801066673990620109
+    second: New Piskel (6)_206
+  - first:
+      213: -1688365259373132209
+    second: New Piskel (6)_207
+  - first:
+      213: 382376974856757107
+    second: New Piskel (6)_208
+  - first:
+      213: -2375838257344645956
+    second: New Piskel (6)_209
+  - first:
+      213: -7298570332660336194
+    second: New Piskel (6)_210
+  - first:
+      213: -1541742107631379266
+    second: New Piskel (6)_211
+  - first:
+      213: -4412628259454124687
+    second: New Piskel (6)_212
+  - first:
+      213: 1521583857378418498
+    second: New Piskel (6)_213
+  - first:
+      213: 6613945489572274817
+    second: New Piskel (6)_214
+  - first:
+      213: 1987874565418238341
+    second: New Piskel (6)_215
+  - first:
+      213: -4882109638502063685
+    second: New Piskel (6)_216
+  - first:
+      213: -764808779725988861
+    second: New Piskel (6)_217
+  - first:
+      213: 1459234635087247565
+    second: New Piskel (6)_218
+  - first:
+      213: 1747610809345611198
+    second: New Piskel (6)_219
+  - first:
+      213: -1508625722536508297
+    second: New Piskel (6)_220
+  - first:
+      213: -8881621360839258370
+    second: New Piskel (6)_221
+  - first:
+      213: 1683275292141863987
+    second: New Piskel (6)_222
+  - first:
+      213: -6622193394292294789
+    second: New Piskel (6)_223
+  - first:
+      213: 2786303518205300838
+    second: New Piskel (6)_224
+  - first:
+      213: -7856718654687333160
+    second: New Piskel (6)_225
+  - first:
+      213: 6760737595860744878
+    second: New Piskel (6)_226
+  - first:
+      213: 6156322135710285102
+    second: New Piskel (6)_227
+  - first:
+      213: 9014698378133054283
+    second: New Piskel (6)_228
+  - first:
+      213: -158597516200341520
+    second: New Piskel (6)_229
+  - first:
+      213: 5735572175362781580
+    second: New Piskel (6)_230
+  - first:
+      213: 1181356081193565
+    second: New Piskel (6)_231
+  - first:
+      213: 7042315734166216383
+    second: New Piskel (6)_232
+  - first:
+      213: 4346490543204514402
+    second: New Piskel (6)_233
+  - first:
+      213: -2573219146786160700
+    second: New Piskel (6)_234
+  - first:
+      213: 2403866037726687713
+    second: New Piskel (6)_235
+  - first:
+      213: -6166944161889585895
+    second: New Piskel (6)_236
+  - first:
+      213: -339621795417973747
+    second: New Piskel (6)_237
+  - first:
+      213: -8537928303315367480
+    second: New Piskel (6)_238
+  - first:
+      213: -2043778696320472016
+    second: New Piskel (6)_239
+  - first:
+      213: 6784437316792771900
+    second: New Piskel (6)_240
+  - first:
+      213: -6287316747814526853
+    second: New Piskel (6)_241
+  - first:
+      213: 1569861974231368307
+    second: New Piskel (6)_242
+  - first:
+      213: -7021183110817201886
+    second: New Piskel (6)_243
+  - first:
+      213: 6571414484670722224
+    second: New Piskel (6)_244
+  - first:
+      213: 4011629564342598380
+    second: New Piskel (6)_245
+  - first:
+      213: -8860267914989261900
+    second: New Piskel (6)_246
+  - first:
+      213: 8863354598384820262
+    second: New Piskel (6)_247
+  - first:
+      213: -4481020481151934338
+    second: New Piskel (6)_248
+  - first:
+      213: -3823149321316627177
+    second: New Piskel (6)_249
+  - first:
+      213: -5097537846274187377
+    second: New Piskel (6)_250
+  - first:
+      213: 1019616013386183970
+    second: New Piskel (6)_251
+  - first:
+      213: -999620198014518859
+    second: New Piskel (6)_252
+  - first:
+      213: -5821482580989927663
+    second: New Piskel (6)_253
+  - first:
+      213: -80754866148494280
+    second: New Piskel (6)_254
+  - first:
+      213: 6454653000220458905
+    second: New Piskel (6)_255
+  - first:
+      213: -9054055146165493472
+    second: New Piskel (6)_256
+  - first:
+      213: 275486308074150390
+    second: New Piskel (6)_257
+  - first:
+      213: 3688830465958860103
+    second: New Piskel (6)_258
+  - first:
+      213: -4737238956367722799
+    second: New Piskel (6)_259
+  - first:
+      213: 5476237365982639051
+    second: New Piskel (6)_260
+  - first:
+      213: -3419088302906240078
+    second: New Piskel (6)_261
+  - first:
+      213: 956552570349091531
+    second: New Piskel (6)_262
+  - first:
+      213: 7981856591424383449
+    second: New Piskel (6)_263
+  - first:
+      213: 3961175975446167064
+    second: New Piskel (6)_264
+  - first:
+      213: 6243815263420871041
+    second: New Piskel (6)_265
+  - first:
+      213: 1541690650377948040
+    second: New Piskel (6)_266
+  - first:
+      213: -1113075265622320935
+    second: New Piskel (6)_267
+  - first:
+      213: -5304584748182608788
+    second: New Piskel (6)_268
+  - first:
+      213: -4235955112774829948
+    second: New Piskel (6)_269
+  - first:
+      213: 1630133932989405384
+    second: New Piskel (6)_270
+  - first:
+      213: 1214840785594333915
+    second: New Piskel (6)_271
+  - first:
+      213: -5579848441449085230
+    second: New Piskel (6)_272
+  - first:
+      213: 5651174564555692059
+    second: New Piskel (6)_273
+  - first:
+      213: -490431345723712828
+    second: New Piskel (6)_274
+  - first:
+      213: -1763994029458400908
+    second: New Piskel (6)_275
+  - first:
+      213: -4518013827955637467
+    second: New Piskel (6)_276
+  - first:
+      213: -529442564109644827
+    second: New Piskel (6)_277
+  - first:
+      213: -6354285600483659200
+    second: New Piskel (6)_278
+  - first:
+      213: -4269817039106844657
+    second: New Piskel (6)_279
+  - first:
+      213: 4091935959936481347
+    second: New Piskel (6)_280
+  - first:
+      213: 4360622020551396374
+    second: New Piskel (6)_281
+  - first:
+      213: -5715410197670798013
+    second: New Piskel (6)_282
+  - first:
+      213: 6189368803404824955
+    second: New Piskel (6)_283
+  - first:
+      213: 4221702263598866734
+    second: New Piskel (6)_284
+  - first:
+      213: 1642815196246515782
+    second: New Piskel (6)_285
+  - first:
+      213: 722649823060014051
+    second: New Piskel (6)_286
+  - first:
+      213: -4306765208961935236
+    second: New Piskel (6)_287
+  - first:
+      213: 3011795804286720051
+    second: New Piskel (6)_288
+  - first:
+      213: -6343528823087999510
+    second: New Piskel (6)_289
+  - first:
+      213: -4822311413761021735
+    second: New Piskel (6)_290
+  - first:
+      213: 1807699629376677558
+    second: New Piskel (6)_291
+  - first:
+      213: -295646008278716214
+    second: New Piskel (6)_292
+  - first:
+      213: 445803209439438721
+    second: New Piskel (6)_293
+  - first:
+      213: -5587540558361968661
+    second: New Piskel (6)_294
+  - first:
+      213: -8355897971515494745
+    second: New Piskel (6)_295
+  - first:
+      213: -5938784515046224635
+    second: New Piskel (6)_296
+  - first:
+      213: -592669279902943464
+    second: New Piskel (6)_297
+  - first:
+      213: -8447527905445715040
+    second: New Piskel (6)_298
+  - first:
+      213: 2511822345782326557
+    second: New Piskel (6)_299
+  - first:
+      213: -6222511005557916924
+    second: New Piskel (6)_300
+  - first:
+      213: -3265594707530609558
+    second: New Piskel (6)_301
+  - first:
+      213: 2446767244522545510
+    second: New Piskel (6)_302
+  - first:
+      213: -5744113024922689855
+    second: New Piskel (6)_303
+  - first:
+      213: 2091397088933175412
+    second: New Piskel (6)_304
+  - first:
+      213: -2943955264922867697
+    second: New Piskel (6)_305
+  - first:
+      213: -3796651410351557304
+    second: New Piskel (6)_306
+  - first:
+      213: 2091192759862446682
+    second: New Piskel (6)_307
+  - first:
+      213: 1782482827253628657
+    second: New Piskel (6)_308
+  - first:
+      213: 1590934194951983001
+    second: New Piskel (6)_309
+  - first:
+      213: 739198848481184855
+    second: New Piskel (6)_310
+  - first:
+      213: -437514082518574159
+    second: New Piskel (6)_311
+  - first:
+      213: -8702705212436570353
+    second: New Piskel (6)_312
+  - first:
+      213: 6231888017520826248
+    second: New Piskel (6)_313
+  - first:
+      213: -499918849485100746
+    second: New Piskel (6)_314
+  - first:
+      213: -5181747502986258930
+    second: New Piskel (6)_315
+  - first:
+      213: 6552768949971293681
+    second: New Piskel (6)_316
+  - first:
+      213: -4210115624568586191
+    second: New Piskel (6)_317
+  - first:
+      213: 8255345791450420172
+    second: New Piskel (6)_318
+  - first:
+      213: 3164762728429572650
+    second: New Piskel (6)_319
+  - first:
+      213: 8599053721980082886
+    second: New Piskel (6)_320
+  - first:
+      213: 6535689938218116412
+    second: New Piskel (6)_321
+  - first:
+      213: 277974188238939828
+    second: New Piskel (6)_322
+  - first:
+      213: -7729725052422529124
+    second: New Piskel (6)_323
+  - first:
+      213: -6613245889963009296
+    second: New Piskel (6)_324
+  - first:
+      213: -6186781445479131417
+    second: New Piskel (6)_325
+  - first:
+      213: -8416536647981122095
+    second: New Piskel (6)_326
+  - first:
+      213: 6663201354063001656
+    second: New Piskel (6)_327
+  - first:
+      213: 9072275771849202373
+    second: New Piskel (6)_328
+  - first:
+      213: -3790930529947402337
+    second: New Piskel (6)_329
+  - first:
+      213: -56411245317663347
+    second: New Piskel (6)_330
+  - first:
+      213: -4362437738794979173
+    second: New Piskel (6)_331
+  - first:
+      213: -8322584787431208723
+    second: New Piskel (6)_332
+  - first:
+      213: 2803911624003570363
+    second: New Piskel (6)_333
+  - first:
+      213: -7553066324362393770
+    second: New Piskel (6)_334
+  - first:
+      213: 4914963280838272453
+    second: New Piskel (6)_335
+  - first:
+      213: -6923857548721758488
+    second: New Piskel (6)_336
+  - first:
+      213: -2882813513279976838
+    second: New Piskel (6)_337
+  - first:
+      213: -7203498419425512033
+    second: New Piskel (6)_338
+  - first:
+      213: 1588820695780735533
+    second: New Piskel (6)_339
+  - first:
+      213: -7317039069625697318
+    second: New Piskel (6)_340
+  - first:
+      213: 8254429801125541684
+    second: New Piskel (6)_341
+  - first:
+      213: 8035395887311934968
+    second: New Piskel (6)_342
+  - first:
+      213: 4638992286156562175
+    second: New Piskel (6)_343
+  - first:
+      213: 7572675496702845705
+    second: New Piskel (6)_344
+  - first:
+      213: 8454966159531940031
+    second: New Piskel (6)_345
+  - first:
+      213: -5333083603546119747
+    second: New Piskel (6)_346
+  - first:
+      213: -8621539345725776829
+    second: New Piskel (6)_347
+  - first:
+      213: -3956811952454248032
+    second: New Piskel (6)_348
+  - first:
+      213: -8906059242120153974
+    second: New Piskel (6)_349
+  - first:
+      213: -3783203482140382339
+    second: New Piskel (6)_350
+  - first:
+      213: 2545752105217885416
+    second: New Piskel (6)_351
+  - first:
+      213: -4270572950727836326
+    second: New Piskel (6)_352
+  - first:
+      213: 3694289576820595494
+    second: New Piskel (6)_353
+  - first:
+      213: 1399913071091667803
+    second: New Piskel (6)_354
+  - first:
+      213: -6173131024540974669
+    second: New Piskel (6)_355
+  - first:
+      213: 549710893050826851
+    second: New Piskel (6)_356
+  - first:
+      213: 5080964280597572414
+    second: New Piskel (6)_357
+  - first:
+      213: -1851079039651005940
+    second: New Piskel (6)_358
+  - first:
+      213: 2173211082025622474
+    second: New Piskel (6)_359
+  - first:
+      213: -5130013713346065239
+    second: New Piskel (6)_360
+  - first:
+      213: 4219242735177948562
+    second: New Piskel (6)_361
+  - first:
+      213: 2473780912226265589
+    second: New Piskel (6)_362
+  - first:
+      213: -3478006980416529392
+    second: New Piskel (6)_363
+  - first:
+      213: -4062021007460474003
+    second: New Piskel (6)_364
+  - first:
+      213: 5991910555591877869
+    second: New Piskel (6)_365
+  - first:
+      213: -6676490838887802110
+    second: New Piskel (6)_366
+  - first:
+      213: -75624360331014758
+    second: New Piskel (6)_367
+  - first:
+      213: -7251004043890416340
+    second: New Piskel (6)_368
+  - first:
+      213: -3977374034284021581
+    second: New Piskel (6)_369
+  - first:
+      213: -7214043279696942651
+    second: New Piskel (6)_370
+  - first:
+      213: 7259914251606504570
+    second: New Piskel (6)_371
+  - first:
+      213: -4423487515468254432
+    second: New Piskel (6)_372
+  - first:
+      213: 6102599484087303258
+    second: New Piskel (6)_373
+  - first:
+      213: -3376760588033946143
+    second: New Piskel (6)_374
+  - first:
+      213: -3800260241702084270
+    second: New Piskel (6)_375
+  - first:
+      213: -7974825311410540604
+    second: New Piskel (6)_376
+  - first:
+      213: 9033182069858301053
+    second: New Piskel (6)_377
+  - first:
+      213: -6100498892712706157
+    second: New Piskel (6)_378
+  - first:
+      213: 8244963668698762827
+    second: New Piskel (6)_379
+  - first:
+      213: 5445154074888015204
+    second: New Piskel (6)_380
+  - first:
+      213: -8595738917500695389
+    second: New Piskel (6)_381
+  - first:
+      213: 2562837815939184389
+    second: New Piskel (6)_382
+  - first:
+      213: -8226535759687819429
+    second: New Piskel (6)_383
+  - first:
+      213: -7000136858730891269
+    second: New Piskel (6)_384
+  - first:
+      213: 6605534500661193685
+    second: New Piskel (6)_385
+  - first:
+      213: 7741051316059993594
+    second: New Piskel (6)_386
+  - first:
+      213: -6014191893572999949
+    second: New Piskel (6)_387
+  - first:
+      213: -3622389696253601935
+    second: New Piskel (6)_388
+  - first:
+      213: 8656333063006226902
+    second: New Piskel (6)_389
+  - first:
+      213: -7576177504492103401
+    second: New Piskel (6)_390
+  - first:
+      213: -6119018611145557031
+    second: New Piskel (6)_391
+  - first:
+      213: 9131506834259299720
+    second: New Piskel (6)_392
+  - first:
+      213: -2255321973417729213
+    second: New Piskel (6)_393
+  - first:
+      213: -5263910401462906411
+    second: New Piskel (6)_394
+  - first:
+      213: 4940316036954276009
+    second: New Piskel (6)_395
+  - first:
+      213: 937086857536886564
+    second: New Piskel (6)_396
+  - first:
+      213: -6440382387484994056
+    second: New Piskel (6)_397
+  - first:
+      213: -5286034585583409600
+    second: New Piskel (6)_398
+  - first:
+      213: 6215306577847752617
+    second: New Piskel (6)_399
+  - first:
+      213: -1359454941136043674
+    second: New Piskel (6)_400
+  - first:
+      213: -4385300884142870021
+    second: New Piskel (6)_401
+  - first:
+      213: -6106618232500358220
+    second: New Piskel (6)_402
+  - first:
+      213: 4457122869177552553
+    second: New Piskel (6)_403
+  - first:
+      213: 708323523808179437
+    second: New Piskel (6)_404
+  - first:
+      213: 7710119300313184648
+    second: New Piskel (6)_405
+  - first:
+      213: -8666344289572267922
+    second: New Piskel (6)_406
+  - first:
+      213: 4063992591012470486
+    second: New Piskel (6)_407
+  - first:
+      213: -7050263303249096691
+    second: New Piskel (6)_408
+  - first:
+      213: 5830756492670669798
+    second: New Piskel (6)_409
+  - first:
+      213: 1583888690471614151
+    second: New Piskel (6)_410
+  - first:
+      213: -2420768183261709528
+    second: New Piskel (6)_411
+  - first:
+      213: 1996406375739145094
+    second: New Piskel (6)_412
+  - first:
+      213: -4699307201957338890
+    second: New Piskel (6)_413
+  - first:
+      213: -6627034712475167193
+    second: New Piskel (6)_414
+  - first:
+      213: 6695633396143599272
+    second: New Piskel (6)_415
+  - first:
+      213: -3219663889775329123
+    second: New Piskel (6)_416
+  - first:
+      213: 4958291084482990197
+    second: New Piskel (6)_417
+  - first:
+      213: -212087980231418464
+    second: New Piskel (6)_418
+  - first:
+      213: -5802806923610729750
+    second: New Piskel (6)_419
+  - first:
+      213: 2823653543104388199
+    second: New Piskel (6)_420
+  - first:
+      213: -571998199361560755
+    second: New Piskel (6)_421
+  - first:
+      213: -1399442590172552216
+    second: New Piskel (6)_422
+  - first:
+      213: -4799952255176320354
+    second: New Piskel (6)_423
+  - first:
+      213: -1515476869968508180
+    second: New Piskel (6)_424
+  - first:
+      213: 2201992408697602082
+    second: New Piskel (6)_425
+  - first:
+      213: -7214321418992108298
+    second: New Piskel (6)_426
+  - first:
+      213: -2500450299964091579
+    second: New Piskel (6)_427
+  - first:
+      213: -1246390196541395377
+    second: New Piskel (6)_428
+  - first:
+      213: -1884762074173426822
+    second: New Piskel (6)_429
+  - first:
+      213: -8195240453155712836
+    second: New Piskel (6)_430
+  - first:
+      213: -2602404130603310077
+    second: New Piskel (6)_431
+  - first:
+      213: -3465764521103935887
+    second: New Piskel (6)_432
+  - first:
+      213: 1211793231085487529
+    second: New Piskel (6)_433
+  - first:
+      213: -2421879569093567045
+    second: New Piskel (6)_434
+  - first:
+      213: -7146644597376199821
+    second: New Piskel (6)_435
+  - first:
+      213: 7027873826622320773
+    second: New Piskel (6)_436
+  - first:
+      213: 6099254832540561572
+    second: New Piskel (6)_437
+  - first:
+      213: 1143246011420296635
+    second: New Piskel (6)_438
+  - first:
+      213: -473187838176658766
+    second: New Piskel (6)_439
+  - first:
+      213: 8722501984044281741
+    second: New Piskel (6)_440
+  - first:
+      213: -1731933253503194942
+    second: New Piskel (6)_441
+  - first:
+      213: -6215347372591444309
+    second: New Piskel (6)_442
+  - first:
+      213: -5571481442081799314
+    second: New Piskel (6)_443
+  - first:
+      213: -1993889458725526374
+    second: New Piskel (6)_444
+  - first:
+      213: 7078076969461022342
+    second: New Piskel (6)_445
+  - first:
+      213: -7607373335992151882
+    second: New Piskel (6)_446
+  - first:
+      213: -6444850201304728588
+    second: New Piskel (6)_447
+  - first:
+      213: -3361824230790484042
+    second: New Piskel (6)_448
+  - first:
+      213: 1536809661476795847
+    second: New Piskel (6)_449
+  - first:
+      213: -2195327432717050803
+    second: New Piskel (6)_450
+  - first:
+      213: 2518921592901270944
+    second: New Piskel (6)_451
+  - first:
+      213: 1308572762072116977
+    second: New Piskel (6)_452
+  - first:
+      213: -5453580054159528079
+    second: New Piskel (6)_453
+  - first:
+      213: -361327161181603891
+    second: New Piskel (6)_454
+  - first:
+      213: -2456400961457223621
+    second: New Piskel (6)_455
+  - first:
+      213: -3388382181144279852
+    second: New Piskel (6)_456
+  - first:
+      213: 1478013771677057491
+    second: New Piskel (6)_457
+  - first:
+      213: 6872513800513611153
+    second: New Piskel (6)_458
+  - first:
+      213: 8743400921566990659
+    second: New Piskel (6)_459
+  - first:
+      213: 3727569942207362468
+    second: New Piskel (6)_460
+  - first:
+      213: -4163913675747586270
+    second: New Piskel (6)_461
+  - first:
+      213: -4996698445665133859
+    second: New Piskel (6)_462
+  - first:
+      213: -3412967075087917387
+    second: New Piskel (6)_463
+  - first:
+      213: 689649288330583160
+    second: New Piskel (6)_464
+  - first:
+      213: -3709022073651278197
+    second: New Piskel (6)_465
+  - first:
+      213: -8431628530375703730
+    second: New Piskel (6)_466
+  - first:
+      213: 1455226642490467320
+    second: New Piskel (6)_467
+  - first:
+      213: -9095443729416300765
+    second: New Piskel (6)_468
+  - first:
+      213: 3827188499469058974
+    second: New Piskel (6)_469
+  - first:
+      213: 1940978055241446019
+    second: New Piskel (6)_470
+  - first:
+      213: -3623113408573615958
+    second: New Piskel (6)_471
+  - first:
+      213: 7868618075601835016
+    second: New Piskel (6)_472
+  - first:
+      213: 5623043449523156277
+    second: New Piskel (6)_473
+  - first:
+      213: 1189129396575889816
+    second: New Piskel (6)_474
+  - first:
+      213: 2632533799475508777
+    second: New Piskel (6)_475
+  - first:
+      213: 1306609584373481337
+    second: New Piskel (6)_476
+  - first:
+      213: -1564574252686707348
+    second: New Piskel (6)_477
+  - first:
+      213: -5816074607399124868
+    second: New Piskel (6)_478
+  - first:
+      213: -9208223679563255274
+    second: New Piskel (6)_479
+  - first:
+      213: -7166574713434491549
+    second: New Piskel (6)_480
+  - first:
+      213: 945001539666220698
+    second: New Piskel (6)_481
+  - first:
+      213: -8416019732490336458
+    second: New Piskel (6)_482
+  - first:
+      213: 7950146270694104293
+    second: New Piskel (6)_483
+  - first:
+      213: -3153346728677408232
+    second: New Piskel (6)_484
+  - first:
+      213: 4010794145303003338
+    second: New Piskel (6)_485
+  - first:
+      213: -4034868538373157066
+    second: New Piskel (6)_486
+  - first:
+      213: -1718234683339582203
+    second: New Piskel (6)_487
+  - first:
+      213: 731286517917135228
+    second: New Piskel (6)_488
+  - first:
+      213: -8001397046580915166
+    second: New Piskel (6)_489
+  - first:
+      213: 3113113216276809292
+    second: New Piskel (6)_490
+  - first:
+      213: -7033844744345101581
+    second: New Piskel (6)_491
+  - first:
+      213: 3431694786934382735
+    second: New Piskel (6)_492
+  - first:
+      213: 1534454253525978274
+    second: New Piskel (6)_493
+  - first:
+      213: -8024322019594274539
+    second: New Piskel (6)_494
+  - first:
+      213: -975944850496539401
+    second: New Piskel (6)_495
+  - first:
+      213: -6190997812540033973
+    second: New Piskel (6)_496
+  - first:
+      213: 7659995991115110795
+    second: New Piskel (6)_497
+  - first:
+      213: -1658058175276826280
+    second: New Piskel (6)_498
+  - first:
+      213: 5063781470124787461
+    second: New Piskel (6)_499
+  - first:
+      213: 1722056696742317910
+    second: New Piskel (6)_500
+  - first:
+      213: -2910450175364361063
+    second: New Piskel (6)_501
+  - first:
+      213: 2957381620177123907
+    second: New Piskel (6)_502
+  - first:
+      213: -821036122806943563
+    second: New Piskel (6)_503
+  - first:
+      213: 5957566818607715358
+    second: New Piskel (6)_504
+  - first:
+      213: 5279185938472652727
+    second: New Piskel (6)_505
+  - first:
+      213: -6679497216372361520
+    second: New Piskel (6)_506
+  - first:
+      213: 4598500869872113657
+    second: New Piskel (6)_507
+  - first:
+      213: -7448750484745283259
+    second: New Piskel (6)_508
+  - first:
+      213: 5656721204330017828
+    second: New Piskel (6)_509
+  - first:
+      213: -7491602353895305977
+    second: New Piskel (6)_510
+  - first:
+      213: 2188687797784805359
+    second: New Piskel (6)_511
+  - first:
+      213: -2335423334019281811
+    second: New Piskel (6)_512
+  - first:
+      213: -1979639116041426006
+    second: New Piskel (6)_513
+  - first:
+      213: -6019104784575792437
+    second: New Piskel (6)_514
+  - first:
+      213: -3049286838089189653
+    second: New Piskel (6)_515
+  - first:
+      213: -6448684095179121667
+    second: New Piskel (6)_516
+  - first:
+      213: 7774028444638875935
+    second: New Piskel (6)_517
+  - first:
+      213: 2451978575024995375
+    second: New Piskel (6)_518
+  - first:
+      213: -4157856552340286688
+    second: New Piskel (6)_519
+  - first:
+      213: -5411527096191117692
+    second: New Piskel (6)_520
+  - first:
+      213: 6144331420850893677
+    second: New Piskel (6)_521
+  - first:
+      213: 3421887805738996656
+    second: New Piskel (6)_522
+  - first:
+      213: -3703304147795956863
+    second: New Piskel (6)_523
+  - first:
+      213: 655858919268953190
+    second: New Piskel (6)_524
+  - first:
+      213: -9045663035801051568
+    second: New Piskel (6)_525
+  - first:
+      213: -8455067117280890114
+    second: New Piskel (6)_526
+  - first:
+      213: 1814749732831679446
+    second: New Piskel (6)_527
+  - first:
+      213: 4898278936400839587
+    second: New Piskel (6)_528
+  - first:
+      213: 8780546673303908827
+    second: New Piskel (6)_529
+  - first:
+      213: -5671098270094084132
+    second: New Piskel (6)_530
+  - first:
+      213: -1196091484908389404
+    second: New Piskel (6)_531
+  - first:
+      213: 5072882153358632876
+    second: New Piskel (6)_532
+  - first:
+      213: -1661268499679813164
+    second: New Piskel (6)_533
+  - first:
+      213: -1620040041577024509
+    second: New Piskel (6)_534
+  - first:
+      213: 84876038508576530
+    second: New Piskel (6)_535
+  - first:
+      213: 2408618440550751528
+    second: New Piskel (6)_536
+  - first:
+      213: -3410586561420540936
+    second: New Piskel (6)_537
+  - first:
+      213: 6667240430979819900
+    second: New Piskel (6)_538
+  - first:
+      213: -8464920865559359609
+    second: New Piskel (6)_539
+  - first:
+      213: -5982733827105370474
+    second: New Piskel (6)_540
+  - first:
+      213: 2616932581841425125
+    second: New Piskel (6)_541
+  - first:
+      213: 2119202421654389282
+    second: New Piskel (6)_542
+  - first:
+      213: 425266746895525935
+    second: New Piskel (6)_543
+  - first:
+      213: 3516503395069157300
+    second: New Piskel (6)_544
+  - first:
+      213: 8219630768308922494
+    second: New Piskel (6)_545
+  - first:
+      213: 5885919343891616550
+    second: New Piskel (6)_546
+  - first:
+      213: -3788319703286302332
+    second: New Piskel (6)_547
+  - first:
+      213: 4106404950850131740
+    second: New Piskel (6)_548
+  - first:
+      213: 5310442020122239771
+    second: New Piskel (6)_549
+  - first:
+      213: -676287468153876035
+    second: New Piskel (6)_550
+  - first:
+      213: -634556120011310085
+    second: New Piskel (6)_551
+  - first:
+      213: 5579424641714137218
+    second: New Piskel (6)_552
+  - first:
+      213: -9205015442857099510
+    second: New Piskel (6)_553
+  - first:
+      213: -7629532295783722552
+    second: New Piskel (6)_554
+  - first:
+      213: 6888342921179816648
+    second: New Piskel (6)_555
+  - first:
+      213: -4316871478258904966
+    second: New Piskel (6)_556
+  - first:
+      213: 4874659419068149600
+    second: New Piskel (6)_557
+  - first:
+      213: 4354641008489459121
+    second: New Piskel (6)_558
+  - first:
+      213: -3416415848539076382
+    second: New Piskel (6)_559
+  - first:
+      213: 3922950773895969211
+    second: New Piskel (6)_560
+  - first:
+      213: -4612768949961213444
+    second: New Piskel (6)_561
+  - first:
+      213: 8078604088356713354
+    second: New Piskel (6)_562
+  - first:
+      213: -7760725103342324136
+    second: New Piskel (6)_563
+  - first:
+      213: -1818964333627827489
+    second: New Piskel (6)_564
+  - first:
+      213: 6583638080940905897
+    second: New Piskel (6)_565
+  - first:
+      213: -293433391998923828
+    second: New Piskel (6)_566
+  - first:
+      213: -6120728102736218531
+    second: New Piskel (6)_567
+  - first:
+      213: -978046748651848655
+    second: New Piskel (6)_568
+  - first:
+      213: 3530880422822428915
+    second: New Piskel (6)_569
+  - first:
+      213: 9027260744202333997
+    second: New Piskel (6)_570
+  - first:
+      213: -5317799049803432749
+    second: New Piskel (6)_571
+  - first:
+      213: 2382327753308952379
+    second: New Piskel (6)_572
+  - first:
+      213: 8297394807440958777
+    second: New Piskel (6)_573
+  - first:
+      213: 2825343067359188283
+    second: New Piskel (6)_574
+  - first:
+      213: 6761559770784111976
+    second: New Piskel (6)_575
+  - first:
+      213: 1597417936847506052
+    second: New Piskel (6)_576
+  - first:
+      213: -6085366658441762377
+    second: New Piskel (6)_577
+  - first:
+      213: -2925257348608572835
+    second: New Piskel (6)_578
+  - first:
+      213: -7306002935487754871
+    second: New Piskel (6)_579
+  - first:
+      213: 2610694905937434827
+    second: New Piskel (6)_580
+  - first:
+      213: -2987165182323800989
+    second: New Piskel (6)_581
+  - first:
+      213: -4105213986058175014
+    second: New Piskel (6)_582
+  - first:
+      213: -3064170401222334299
+    second: New Piskel (6)_583
+  - first:
+      213: -2942433569394364207
+    second: New Piskel (6)_584
+  - first:
+      213: -3002966772009017489
+    second: New Piskel (6)_585
+  - first:
+      213: 5199572764821283683
+    second: New Piskel (6)_586
+  - first:
+      213: -5082296247358608842
+    second: New Piskel (6)_587
+  - first:
+      213: -6203525389609555062
+    second: New Piskel (6)_588
+  - first:
+      213: -2590622798247906043
+    second: New Piskel (6)_589
+  - first:
+      213: 4745774615281090893
+    second: New Piskel (6)_590
+  - first:
+      213: 7124433037330076571
+    second: New Piskel (6)_591
+  - first:
+      213: 5632822855530457121
+    second: New Piskel (6)_592
+  - first:
+      213: 9047027704561692323
+    second: New Piskel (6)_593
+  - first:
+      213: 994726879561897642
+    second: New Piskel (6)_594
+  - first:
+      213: -322711848587893650
+    second: New Piskel (6)_595
+  - first:
+      213: -1603802124862906134
+    second: New Piskel (6)_596
+  - first:
+      213: -5453070685049501328
+    second: New Piskel (6)_597
+  - first:
+      213: -7247964152503505263
+    second: New Piskel (6)_598
+  - first:
+      213: 8490903616487068048
+    second: New Piskel (6)_599
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Piskel (6)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b923245128672cb0800000000000000
+      internalID: -4888824378132584010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281aa2ca90db8310800000000000000
+      internalID: 1408448671592880165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b5f2291ac796cc0800000000000000
+      internalID: -3717302984033477888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a4a2a2ea779650800000000000000
+      internalID: 6239590922555008351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea19c1338206410800000000000000
+      internalID: 1468217678510534216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd2ed54a7a4b6a0800000000000000
+      internalID: -6434333643213971615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49ee423a30628c0800000000000000
+      internalID: -4024525217774791505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8670d125582b630800000000000000
+      internalID: 3941359211623442615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de570a625e47c00800000000000000
+      internalID: 897594179817172277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_9
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1920
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d80f5e69f495ad0800000000000000
+      internalID: -2713049790992577238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12d7ba2d5397b30800000000000000
+      internalID: 4285515699356246476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16ab869dd4accf0800000000000000
+      internalID: -231286834695872001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a77cb5032a0b710800000000000000
+      internalID: 1707042587355347487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ae66d96ccc8330800000000000000
+      internalID: 3714568547615023161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999cd29123be97920800000000000000
+      internalID: 2988678428140358041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3326a73243eda50800000000000000
+      internalID: 6547728235225035760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474aab93086e0de10800000000000000
+      internalID: 2220528054692390004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bef01ff885e6ac0800000000000000
+      internalID: -3860050455362016487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5186235d2cc73ac0800000000000000
+      internalID: -3875404459288395426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 640
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb358fc71d01960800000000000000
+      internalID: 7570781308282191555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e138714a78cbf30800000000000000
+      internalID: 4592694858849918464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae2f82b1e4d22e80800000000000000
+      internalID: -8204761505287164242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846be02e2170efdc0800000000000000
+      internalID: -3603434874166397368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (6)_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d19d76e9a5aee20800000000000000
+      internalID: 3380614106688593296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
