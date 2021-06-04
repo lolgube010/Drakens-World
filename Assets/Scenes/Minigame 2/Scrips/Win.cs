@@ -54,7 +54,7 @@ public class Win : MonoBehaviour
 
     public void Restart()
     {
-        SceneManager.LoadScene("Markus");
+        SceneManager.LoadScene("Minigame 2");
     }
 
     // skrivs senare
