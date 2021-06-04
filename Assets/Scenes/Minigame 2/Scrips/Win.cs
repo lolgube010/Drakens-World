@@ -4,14 +4,17 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using JetBrains.Annotations;
+
 public class Win : MonoBehaviour
 {
-    //Sriven av Markus W
+    //Skriven av Markus W
 
     public GameObject victory;
     public GameObject lose;
 
     public mini2Movment Health; 
+    
     
 
 
@@ -25,12 +28,6 @@ public class Win : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Behöver ett sätt att vinna
-        //if ()
-        //{
-            //Victory();
-        //}
-
 
         if (Health.PlayerHealth == 0)
         {
@@ -39,6 +36,11 @@ public class Win : MonoBehaviour
 
     }
 
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "Goal")
+        Victory();
+    }
 
     public void Lose()
     {
