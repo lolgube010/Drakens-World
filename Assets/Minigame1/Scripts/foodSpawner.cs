@@ -19,7 +19,7 @@ public class foodSpawner : MonoBehaviour
             startInfo.enabled = false;
             hasStarted = true;
         }
-        print(Random.Range(4, 1));  
+        print(Random.Range(3, 0));  
     }
     public void spawnFood() //Skapar mat med en slumpad x position.
     {
@@ -32,13 +32,13 @@ public class foodSpawner : MonoBehaviour
         {
             Instantiate(foodParts[0], spawnOffset, Quaternion.identity);
         }
-        else if (points.poäng == 5)
+        else if (points.poäng == 4)
         {
             Instantiate(foodParts[4], spawnOffset, Quaternion.identity);
         }
         else
         {
-            Instantiate(foodParts[Random.Range(4, 1)], spawnOffset, Quaternion.identity);
+            Instantiate(foodParts[Random.Range(3, 0)], spawnOffset, Quaternion.identity);
         }
     }
 }
