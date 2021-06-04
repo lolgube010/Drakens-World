@@ -19,7 +19,7 @@ public class foodSpawner : MonoBehaviour
             startInfo.enabled = false;
             hasStarted = true;
         }
-        print(Random.Range(4, 1));
+        print(Random.Range(4, 1));  
     }
     public void spawnFood() //Skapar mat med en slumpad x position.
     {
