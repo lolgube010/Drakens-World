@@ -14,7 +14,7 @@ public class points : MonoBehaviour
     {
         poängDisplay.text = "Poäng: " + actualpoints;
 
-        if (actualpoints >= 2f) { SceneManager.LoadScene("OverWorld"); }//du vinner vi tio poäng -Lukas
+        if (actualpoints >= 3f) { SceneManager.LoadScene("OverWorld"); }//du vinner vi tio poäng -Lukas
     }
 
 
