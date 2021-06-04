@@ -347,7 +347,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -100
   m_Sprite: {fileID: 21300000, guid: e94dc5eedc35ff14c85641d1c749a08c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -475,7 +475,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -555,6 +555,12 @@ MonoBehaviour:
     type: 3}
   startInfo: {fileID: 1067117482}
   points: {fileID: 0}
+  foodParts:
+  - {fileID: 9087854757398096973, guid: f6fddebe8c953144aa492e75ffd95727, type: 3}
+  - {fileID: 7884322628941908251, guid: 3fd360b1b990d3c41aa736be29246e2a, type: 3}
+  - {fileID: 2650747187972118012, guid: cdd1500727998dc4eb46363f0fbacb8a, type: 3}
+  - {fileID: 5918322170167014578, guid: af11ca6600c15f8428426212870b1584, type: 3}
+  - {fileID: 34798041657404068, guid: ae5138b43e348414ea84dc079dca0942, type: 3}
 --- !u!4 &1007990518
 Transform:
   m_ObjectHideFlags: 0
@@ -860,7 +866,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.21}
+  m_Offset: {x: 0.038601786, y: -0.2013318}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -871,7 +877,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.45, y: 0.2}
+  m_Size: {x: 0.5713197, y: 0.053428426}
   m_EdgeRadius: 0
 --- !u!212 &1479454960
 SpriteRenderer:
