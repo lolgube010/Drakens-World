@@ -472,6 +472,7 @@ MonoBehaviour:
   foodPrefab: {fileID: 5116468199606330564, guid: e5efb0170f7bf2340bf6524252a812ed,
     type: 3}
   startInfo: {fileID: 1067117482}
+  points: {fileID: 0}
 --- !u!4 &1007990518
 Transform:
   m_ObjectHideFlags: 0
@@ -582,7 +583,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Tryck Space f\xF6r att b\xF6rja!"
+  m_Text: "Styr talriken med A - D eller \u25C0 - \u25B6\n\nTryck Space f\xF6r att
+    b\xF6rja!"
 --- !u!222 &1067117483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -608,7 +610,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 600, y: 200}
+  m_SizeDelta: {x: 800, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1099967569
 GameObject:
