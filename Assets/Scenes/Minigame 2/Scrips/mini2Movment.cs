@@ -17,9 +17,16 @@ public class mini2Movment : MonoBehaviour
     public int Ammo;
 
     public Win winning;
+
+    public AudioClip[] Död;
+    int RandomSound;
+    public AudioSource Audio;
+    bool HasPlayed = false;
     void Start()
     {
+        Död = Resources.LoadAll<AudioClip>("Sounds/Tobias/Död");
         PlayerHealth = 3;
+        HasPlayed = false;
     }
     private void FixedUpdate() 
     {
@@ -33,6 +40,13 @@ public class mini2Movment : MonoBehaviour
         movment.y = Input.GetAxisRaw("Vertical");
         if (PlayerHealth <= 0)
         {
+            RandomSound = Random.Range(0, Död.Length);
+            if (!Audio.isPlaying && HasPlayed == false)
+            {
+                Audio.clip = Död[RandomSound];
+                Audio.Play();
+                HasPlayed = true;
+            }
             winning.Lose();
         }
         invisiblityTime -= Time.deltaTime;

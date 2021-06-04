@@ -45,7 +45,7 @@ public class Win : MonoBehaviour
     public void Lose()
     {
         lose.SetActive(true);
-
+        Time.timeScale = 0;
     }
 
     public void Victory()
