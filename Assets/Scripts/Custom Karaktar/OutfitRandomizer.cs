@@ -10,17 +10,20 @@ public class OutfitRandomizer : MonoBehaviour
 {
     public GameObject character;
     // skapar en lista med alla våra olika platser 
+    [Header("Kroppsdelar vi ska randomiza")]
     public List<OutfitChanger> outfitChangers = new List<OutfitChanger>();
 
-    // randomizar våra outfits
+    // randomizar våra outfits för varje kroppsdel
     public void RandomizeCharacter(){
         foreach (OutfitChanger changer in outfitChangers){
             changer.Randomize();
         }
     }
 
+// this is where we save our player prefab
     public void Submit(){
         PrefabUtility.SaveAsPrefabAsset(character, "Assets/Saves/Player.prefab");
+        print("saved / overwrote prefab!");
     }
 
 }

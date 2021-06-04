@@ -12,4 +12,9 @@ public class SceneButton : MonoBehaviour
     public void LoadScene(int a){
         SceneManager.LoadScene(a);
     }
+
+    // gissa vad den här gör wowaoeoarewaoaweoo
+    public void Quit(){
+        Application.Quit();
+    }
 }
