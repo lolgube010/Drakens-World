@@ -13,6 +13,7 @@ public class Movement : MonoBehaviour
     public Rigidbody2D rb;
     Vector2 movement;
     public Animator anm;
+   public sceneTransition sceneTransition;
     void Start()
     {
 
@@ -28,7 +29,18 @@ public class Movement : MonoBehaviour
         anm.SetFloat("Vertical", movement.y);
         anm.SetFloat("Speed", movement.sqrMagnitude);
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Minigame 2")
+        {
+            sceneTransition.LoadNextLevel("Johan 2");
 
+        }
+        if (collision.gameObject.tag == "Minigame 1")
+        {
+            sceneTransition.LoadNextLevel("Minigame 1");
+        }
+    }
     private void FixedUpdate()
     {
         /* denna line tar spelarens position och lägger till movement vilket är i update getAxisraw vilket ger ett värde mellan -1 och 1,

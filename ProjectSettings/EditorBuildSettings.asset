@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 412e4b005818d5246a9ca3bfc8832d7f
+  - enabled: 1
     path: Assets/Scenes/Johan.unity
     guid: f85119262af50b5448105be9e6411a71
   - enabled: 1
     path: Assets/Scenes/Johan 2.unity
     guid: 84d8edae2b3d9454788c27894ee67f88
+  - enabled: 1
+    path: Assets/Scenes/TEST/Custom karaktar TEST.unity
+    guid: 7f2066d9076f7c84190f5318a4dce752
   m_configObjects: {}
