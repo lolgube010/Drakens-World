@@ -1078,6 +1078,10 @@ MonoBehaviour:
   movmentSpeed: 0
   rb: {fileID: 0}
   PlayerHealth: 0
+  invisiblityTime: 0
+  hearts: []
+  F: {fileID: 0}
+  Ammo: 0
 --- !u!1 &1979409061
 GameObject:
   m_ObjectHideFlags: 0
