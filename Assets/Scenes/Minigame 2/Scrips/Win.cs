@@ -45,10 +45,12 @@ public class Win : MonoBehaviour
     public void Lose()
     {
         lose.SetActive(true);
+
     }
 
     public void Victory()
     {
+        Time.timeScale = 0;
         victory.SetActive(true);
     }
 
