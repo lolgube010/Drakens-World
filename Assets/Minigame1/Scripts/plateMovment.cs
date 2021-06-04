@@ -6,19 +6,19 @@ public class plateMovment : MonoBehaviour
 {
     public Rigidbody2D plate;
     //så du teoretiskt kan ändra vilka tangenter du anvender för att styra -Lukas
-    public KeyCode right;
-    public KeyCode left;
+    public float speed = 5;
     //Väldigt baisc 2d rörelse kod -Lukas 
     
     void Update()
     {
-        if (Input.GetKey(right))
+        if (Input.GetAxis("Fire3") > 0) //Fire3 är inputen för leftshift.
         {
-            plate.AddForce(new Vector2(5, 0));// för att åka höger -Lukas
+            speed = 5;
         }
-        if (Input.GetKey(left))
+        else
         {
-            plate.AddForce(new Vector2 (-5,0)); // för att åk avänster -Lukas 
+            speed = 1;
         }
+        plate.AddForce(new Vector2(Input.GetAxis("Horizontal") * speed, 0)); //Horizontal är inputen för vänster och höger.
     }
 }

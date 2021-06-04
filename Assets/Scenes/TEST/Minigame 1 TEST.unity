@@ -862,15 +862,15 @@ Rigidbody2D:
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 1
-  m_Mass: 3
+  m_UseAutoMass: 0
+  m_Mass: 1
   m_LinearDrag: 1
   m_AngularDrag: 0.05
   m_GravityScale: 0
-  m_Material: {fileID: 6200000, guid: 770ac375f48ed1947a55b7c0636d63c8, type: 2}
-  m_Interpolate: 2
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 1
+  m_CollisionDetection: 0
   m_Constraints: 6
 --- !u!114 &1479454964
 MonoBehaviour:
@@ -885,8 +885,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plate: {fileID: 1479454963}
-  right: 100
-  left: 97
+  speed: 1
 --- !u!1 &2105010913
 GameObject:
   m_ObjectHideFlags: 0
