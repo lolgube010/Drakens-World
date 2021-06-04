@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class points : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class points : MonoBehaviour
     private void Update()
     {
         poängDisplay.text = "Poäng: " + actualpoints;
+
+        if (actualpoints >= 10f) { SceneManager.LoadScene("OverWorld"); }//du vinner vi tio poäng -Lukas
     }
+
 
 }

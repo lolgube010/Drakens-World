@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//detta script är för att få logiken för spelet att va klara - Lukas
 public class foodLogic : MonoBehaviour
 {
     bool hasLanded;

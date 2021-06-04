@@ -1,17 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//scriptet för att starta spelet & spawna food consistantally -Lukas
 public class foodSpawner : MonoBehaviour
 {
     public GameObject foodPrefab;
     Vector3 spawnOffset;
     public UnityEngine.UI.Text startInfo;
     bool hasStarted;
+    public points points;
+    void Start()
+    {
+        FindObjectOfType<points>();
+    }
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && hasStarted != true) //Skapar en mat när man startar spelet och trycker på space.
         {
+            points.poäng = 0;
+            points.actualpoints = 0;
             spawnFood();
             startInfo.enabled = false;
             hasStarted = true;

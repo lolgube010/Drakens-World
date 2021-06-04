@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Timers;
-
+//koden är för att förstöra food blocken när det når fem styck på talricken -Lukas
 public class foodDestroyer : MonoBehaviour
 {
     List<GameObject> foodList = new List<GameObject>();

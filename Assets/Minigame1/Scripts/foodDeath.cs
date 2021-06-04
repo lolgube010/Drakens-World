@@ -7,7 +7,7 @@ using System.Timers;
 public class foodDeath : MonoBehaviour
 {
     public GameObject food;
-    // detta script är för att föstöra mat objecten 
+    // detta script är för att föstöra mat objecten när dom faller av talricken-Lukas
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "DeathZone")// kollar om objectet är i DeathZone -Lukas
