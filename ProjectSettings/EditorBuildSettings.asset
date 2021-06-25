@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OverWorld.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Overworld/Scenes/Marcus.unity
+    guid: 57200974c49e6b340b162d28ba0f01eb
   m_configObjects: {}
